@@ -2,4 +2,6 @@
 Playground to test python concepts and standard functionalities
 
 ## Python functionalities
-[enumerate](enumerate.py)
+[enumeration](enumeration.py)
+[list_comprehension](list_comprehension.py)
+
